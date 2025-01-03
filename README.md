@@ -36,7 +36,7 @@ To run the project using Expo:
 - **custom-drawer.tsx**: Defines the components, props, and styles used to structure and style the drawer.
 - **service-folder**: It stores the functions to collect data from `[AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas)`.
 
-## PROJECT'S IMAGES
+## Project's images
 ## **Converter Screen**
 ![Converter Screen](./assets/converter.jpeg)
 
