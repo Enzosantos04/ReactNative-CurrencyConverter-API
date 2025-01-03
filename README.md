@@ -8,7 +8,7 @@ This project integrates a currency API from [AwesomeAPI](https://docs.awesomeapi
 - **AwesomeAPI** for real-time currency exchange rates to BRL currency.
 - **React Navigation** for the drawer component and navigation.
 
-- # Prerequisites
+- ## Prerequisites
 
 Make sure you have the following installed:
 
